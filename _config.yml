@@ -1,0 +1,28 @@
+name: MyChurchCanDoVideo
+favicon: null
+layout_spectrum: 0.8361889573279768
+typography_spectrum: 0.8225159146822989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9540894909296185
+  lightness: 0.24835543776862323
+  saturation: 0.4030473653692752
+  rhythmicContrast: 0.9224962170701474
+purpose: []
